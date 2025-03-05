@@ -71,4 +71,4 @@ Key Takeaway
     add|change: Covers both new disks and changes, keeping symlinks rock-solid.
 
 Think of it like labeling a seat at a table: add assigns the label when someone sits down, but change fixes it if they switch chairs later. With add|change, your labels always match the right person—er, disk!
-This help file should be easy to follow for someone new to udev rules while still providing enough detail for practical understanding. Let me know if you'd like adjustments!
+This help file should be easy to follow for someone new to udev rules while still providing enough detail for practical understanding. 
